@@ -53,3 +53,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+build/soundbank.h
+build/soundbank_bin.h
+build/soundbank.bin
+.vscode/targets.log
+.vscode/settings.json
+.vscode/dryrun.log
+.vscode/configurationCache.log
